@@ -1,0 +1,60 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache version="8.2.1" last-modified="1500556776000" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://192.168.0.222/OneHRCloud/code/xingfushebao/" />
+        <option value="svn://192.168.0.222/OneHRCloud/code/hrssc" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://192.168.0.222/OneHRCloud/code/xingfushebao/" />
+        <option value="svn://192.168.0.222/OneHRCloud/code/hrssc" />
+      </list>
+    </option>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+    <pattern>111</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="192.168.0.38 " host="192.168.0.38" port="6379" password="" timestamp="1522207960846" valueEditorName="JsonValueEditor" />
+    </servers>
+    <servers>
+      <general label="192.168.16.172" host="192.168.16.172" port="6379" password="" timestamp="1539072295388" valueEditorName="BytesValueEditor" />
+    </servers>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.T">
+    <pattern>*</pattern>
+    <pattern>test</pattern>
+    <pattern>import</pattern>
+    <pattern>import*</pattern>
+    <pattern>importExcel:*</pattern>
+    <pattern>importExcel:1001792*</pattern>
+    <pattern>importExcel:1001793*</pattern>
+    <pattern>importExcel:1001795*</pattern>
+    <pattern>importExcel:</pattern>
+    <pattern>vset:QueryDef::hash-1482246294_10001</pattern>
+    <pattern>vset:QueryDef::hash-1482246294_10001*</pattern>
+    <pattern>*vset:QueryDef::hash-1482246294_10001*</pattern>
+    <pattern>vset:QueryDef*</pattern>
+  </component>
+</application>
