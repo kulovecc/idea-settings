@@ -66,11 +66,27 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Completions.CompletionwithTab">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1546394974785" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Completions.SmartTypeCompletion">
           <value>
             <StatisticData>
               <option name="state" value="STARTED" />
               <option name="timestamp" value="1535442212815" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.StatementCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1546394973739" />
             </StatisticData>
           </value>
         </entry>
