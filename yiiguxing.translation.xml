@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="                data List.remove If((this::check List Value Is Empty));&#10;" />
       <item value="response" />
       <item value="select * from psd_permission_detail" />
       <item value=" 2.5.8 Set default keymap shortcut for &quot;get relevant example&quot; to Ctrl+Shift+O" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
