@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can you have imaginary longs?" />
+      <item value="you" />
       <item value="                data List.remove If((this::check List Value Is Empty));&#10;" />
       <item value="response" />
       <item value="select * from psd_permission_detail" />
@@ -38,8 +40,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
   </component>
