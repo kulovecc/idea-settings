@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="http://hprpt 2.eucp.b 2 m.cn:8080/sdkproxy/sendsms.action" />
       <item value="检查导入数据" />
       <item value="上级部门名称" />
       <item value="Code" />
@@ -44,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
