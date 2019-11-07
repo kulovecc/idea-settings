@@ -11,6 +11,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="exe" type="Native" />
       <mapping pattern="Preparing" type="PLAIN_TEXT" />
       <mapping pattern="Parameters" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
